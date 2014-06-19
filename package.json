@@ -1,7 +1,7 @@
 {
   "name": "gulp-rev-cleaner",
-  "version": "0.0.1",
-  "description": "Old static asset revision files cleanup",
+  "version": "0.0.2",
+  "description": "Renamed to gulp-rev-outdated",
   "license": "MIT",
   "repository": {
     "type": "git",
